@@ -12,8 +12,8 @@ class Piggy(object):
             time.sleep(.5)
             left_rot()
             time.sleep(.5)
-            stop()
             fwd(3)
+            stop
 
 
 
